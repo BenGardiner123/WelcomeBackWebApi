@@ -5,20 +5,7 @@ namespace WelcomeBackTasks
 {
     class DividingThingy
     {
-        // start with a really high number called mainInt
-
-        // get the user input userInput
-
-        // start the counter divide the mainInt by 2 
-
-        // if remainder exit and increment
-
-        //  else continue through to userInput
-
-        // if it makes user input add the current state of mainINt to a list reutn to the checks.
-
-        // once finshed - retrive the min from the list.
-
+       
 
         public void remaindeCheck(int max)
         {   
