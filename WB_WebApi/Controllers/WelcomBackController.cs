@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using WelcomeBackTasks;
@@ -13,15 +14,12 @@ namespace WB_WebApi.Controllers
         
     public class WelcomBackController: ControllerBase
     {
-       
-       WelcomBackController(){
-
-       }
-
+       PalindromicStuff p = new PalindromicStuff();
+       WelcomBackController(){}
+        
         [HttpGet("{decimals}")]
-        public int PalindromicStuff (int decimals)
+        public int Get(int decimals)
         {
-            PalindromicStuff p = new PalindromicStuff();
             return p.PalindromeMin(decimals);
         } 
 
