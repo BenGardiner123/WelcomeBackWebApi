@@ -85,7 +85,6 @@ namespace WelcomeBackTasks
 
             int minValue = Convert.ToInt32(initminValue);
 
-
             // get two numbers which are the minimum for num x 2 
             int result = 0;
             

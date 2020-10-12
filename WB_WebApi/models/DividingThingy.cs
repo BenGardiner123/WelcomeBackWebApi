@@ -7,7 +7,7 @@ namespace WelcomeBackTasks
     {
        
 
-        public void remaindeCheck(int max)
+        public int remaindeCheck(int max)
         {   
             
             // candidtate numbers can be stored here
@@ -46,8 +46,8 @@ namespace WelcomeBackTasks
             }
 
             int outputMin = CanBeDividedByAll.Min(); 
-            System.Console.WriteLine($"The smallest positive number that can be divided by each number from 1 to {max} is {outputMin}");  
-
+            /* System.Console.WriteLine($"The smallest positive number that can be divided by each number from 1 to {max} is {outputMin}");   */
+            return outputMin;
         }
 
     }

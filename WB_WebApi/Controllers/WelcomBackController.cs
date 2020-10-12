@@ -17,15 +17,28 @@ namespace WB_WebApi.Controllers
        
        public WelcomeBackController(){}
         
-        [HttpGet("{decimals}")]
-        public int Get(int decimals)
+        [HttpGet("GetPalindromeMin/{decimals}")]
+        public int GetMin(int decimals)
         {
             PalindromicStuff p = new PalindromicStuff();
             return p.PalindromeMin(decimals);
         } 
 
-     
+        [HttpGet("GetPalindromeMax/{decimals}")]
+        public int GetMax(int decimals)
+        {
+            PalindromicStuff p = new PalindromicStuff();
+            return p.PalindromeMax(decimals);
+            // this i s getting me a weird error if i go to 3 decimal places
+        } 
 
+        [HttpGet("GetRemainder/{limit}")]
+        public int GetRemainder(int limit)
+        {
+            DividingThingy d = new DividingThingy();
+            return d.remaindeCheck(limit);
+            
+        } 
 
 
 
