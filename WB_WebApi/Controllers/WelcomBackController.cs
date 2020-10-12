@@ -20,6 +20,7 @@ namespace WB_WebApi.Controllers
         [HttpGet("{decimals}")]
         public int Get(int decimals)
         {
+            PalindromicStuff p = new PalindromicStuff();
             return p.PalindromeMin(decimals);
         } 
 
