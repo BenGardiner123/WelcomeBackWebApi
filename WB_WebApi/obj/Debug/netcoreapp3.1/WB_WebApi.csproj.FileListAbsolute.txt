@@ -18,3 +18,23 @@ C:\Users\Cooler Master\Documents\swinburne\WelcomeBackWebApi\WB_WebApi\obj\Debug
 C:\Users\Cooler Master\Documents\swinburne\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.dll
 C:\Users\Cooler Master\Documents\swinburne\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.pdb
 C:\Users\Cooler Master\Documents\swinburne\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.genruntimeconfig.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\WB_WebApi.exe
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\WB_WebApi.deps.json
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\WB_WebApi.runtimeconfig.json
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\WB_WebApi.runtimeconfig.dev.json
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\WB_WebApi.dll
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\bin\Debug\netcoreapp3.1\WB_WebApi.pdb
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.AssemblyInfo.cs
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WB_WebApi.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WB_WebApi.StaticWebAssets.xml
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.dll
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.pdb
+C:\Users\User\Desktop\WelcomeBackWebApi\WB_WebApi\obj\Debug\netcoreapp3.1\WB_WebApi.genruntimeconfig.cache

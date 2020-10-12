@@ -3505,26 +3505,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cooler Master\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cooler Master\\Documents\\swinburne\\WelcomeBackWebApi\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\WelcomeBackWebApi\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\Cooler Master\\Documents\\swinburne\\WelcomeBackWebApi\\Tests\\Tests.csproj",
-      "packagesPath": "C:\\Users\\Cooler Master\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cooler Master\\Documents\\swinburne\\WelcomeBackWebApi\\Tests\\obj\\",
+      "projectPath": "C:\\Users\\User\\Desktop\\WelcomeBackWebApi\\Tests\\Tests.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\WelcomeBackWebApi\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Cooler Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
