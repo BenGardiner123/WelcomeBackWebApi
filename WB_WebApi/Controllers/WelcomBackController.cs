@@ -12,10 +12,10 @@ namespace WB_WebApi.Controllers
     [ApiController]
     [Route("[controller]")]
         
-    public class WelcomBackController: ControllerBase
+    public class WelcomeBackController: ControllerBase
     {
-       PalindromicStuff p = new PalindromicStuff();
-       WelcomBackController(){}
+       
+       public WelcomeBackController(){}
         
         [HttpGet("{decimals}")]
         public int Get(int decimals)
